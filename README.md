@@ -46,7 +46,7 @@ This project showcases my ability to apply data science techniques to real-world
 
 ## Visuals and Results
 
-![COVID-19 Clusters]([your_image_link_here](https://github.com/ahmedatia456123/COVID-19-visualization-and-time-series-classification/blob/main/Results.png?raw=true))  
-![World Map]([your_image_link_here](https://github.com/ahmedatia456123/COVID-19-visualization-and-time-series-classification/blob/main/World%20Map.png?raw=true))
+![COVID-19 Clusters](https://raw.githubusercontent.com/ahmedatia456123/COVID-19-visualization-and-time-series-classification/main/Results.png)  
+![World Map](https://raw.githubusercontent.com/ahmedatia456123/COVID-19-visualization-and-time-series-classification/main/World%20Map.png)
 
 Feel free to explore the project files and code to gain deeper insights into the analysis and findings. Your feedback and contributions are welcome!
