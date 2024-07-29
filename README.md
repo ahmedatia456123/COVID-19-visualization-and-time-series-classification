@@ -50,3 +50,9 @@ This project showcases my ability to apply data science techniques to real-world
 ![World Map](https://raw.githubusercontent.com/ahmedatia456123/COVID-19-visualization-and-time-series-classification/main/World%20Map.png)
 
 Feel free to explore the project files and code to gain deeper insights into the analysis and findings. Your feedback and contributions are welcome!
+
+## Contact
+
+**Ahmed Atta Ramadan**  
+Mechatronics Engineering  
+[ahmedatia456123@gmail.com](mailto:ahmedatia456123@gmail.com)
