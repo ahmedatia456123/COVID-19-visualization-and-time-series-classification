@@ -54,5 +54,4 @@ Feel free to explore the project files and code to gain deeper insights into the
 ## Contact
 
 **Ahmed Atta Ramadan**  
-Mechatronics Engineering  
 [ahmedatia456123@gmail.com](mailto:ahmedatia456123@gmail.com)
